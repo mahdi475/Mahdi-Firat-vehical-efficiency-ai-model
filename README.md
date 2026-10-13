@@ -2,6 +2,12 @@
 
 This project predicts vehicle fuel efficiency (MPG) using the Auto MPG dataset from the UCI Machine Learning Repository.
 
+By Mahdi Mosavi and [Firat Kaya](https://github.com/Firathubgit), as a project in the TAM400 machine learning course.
+
+| Weight vs. MPG | Residuals of the final model |
+| --- | --- |
+| ![Weight vs MPG](figures/weight_vs_mpg.png) | ![Residual plot](figures/model_results.png) |
+
 ## Objective
 
 The goal is to apply a complete machine learning workflow: data loading, preprocessing, exploratory data analysis, model training, evaluation, and interpretation.
